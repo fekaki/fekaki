@@ -3,7 +3,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fekaki7&label=Profile%20views&color=0e75b6&style=flat" alt="fekaki" /> </p>
 
 - 🔭 I’m currently working on [The Riff Along](https://the-riff-along.herokuapp.com/)
-- 🌱 I’m currently learning Ruby On Rails
+- 🌱 I’m currently learning Node.JS
 - 😄 Pronouns: He / him
 - 💬 Ask me about **my code**
 - ⚡ Hobbies: Passionate in 🏓, 🥋, 🎮, ✈️
